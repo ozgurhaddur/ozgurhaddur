@@ -1,7 +1,6 @@
 # 💫 About Me:
 ## Merhaba! I'm Özgür 👋
-🔭 I'm currently working on technologies like .NET Core, TypeScript, and C# to develop robust and scalable solutions.<br>💻 Proficient in fullstack development, I excel in crafting elegant code and collaborating effectively within cross-functional teams.<br>👨‍🎓  I aim to constantly improve myself as someone who can activate potential dedication with the help of continuity in development and the necessity for education.<br>
-
+🔭 I'm currently working on technologies like .NET Core, TypeScript, and C# to develop robust and scalable solutions.<br>💻 Proficient in fullstack development, I excel in crafting elegant code and collaborating effectively within cross-functional teams.<br>👨‍🎓  I aim to constantly improve myself as someone who can activate potential dedication with the help of continuity in development and the necessity for education.<br>📫 How to reach me **ozgurkho@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ozgurhaddur) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ozgurhaddur) 
