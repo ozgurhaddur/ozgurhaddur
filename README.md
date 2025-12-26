@@ -1,6 +1,9 @@
 # 💫 About Me:
 ## Merhaba! I'm Özgür 👋
-🔭 I'm currently working on technologies like .NET Core, TypeScript, and C# to develop robust and scalable solutions.<br>💻 Proficient in backend development, I excel in crafting elegant code and collaborating effectively within cross-functional teams.<br>👨‍🎓  I aim to constantly improve myself as someone who can activate potential dedication with the help of continuity in development and the necessity for education.<br>📫 How to reach me **ozgurkho@gmail.com**
+🔭 Currently working with .NET Core and C# to build scalable and maintainable backend applications.<br>
+💻 Focused on backend development, with an emphasis on clean architecture, testable code, and effective collaboration with cross-functional teams.<br>
+🌱 Continuously improving my technical skills through hands-on development, learning, and practical problem-solving.
+📫 How to reach me **ozgurkho@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ozgurhaddur) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ozgurhaddur) 
